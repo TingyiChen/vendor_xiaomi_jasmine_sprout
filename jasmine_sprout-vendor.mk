@@ -41,6 +41,15 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/jasmine_sprout/proprietary/vendor/etc/camera/wayne_imx486_sunny_india_i_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/wayne_imx486_sunny_india_i_chromatix.xml \
     vendor/xiaomi/jasmine_sprout/proprietary/vendor/etc/camera/wayne_imx486_sunny_india_iii_chromatix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/wayne_imx486_sunny_india_iii_chromatix.xml \
     vendor/xiaomi/jasmine_sprout/proprietary/vendor/firmware/cpp_firmware_v1_12_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_12_0.fw \
+    vendor/xiaomi/jasmine_sprout/proprietary/vendor/firmware/mlipay.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/mlipay.b00 \
+    vendor/xiaomi/jasmine_sprout/proprietary/vendor/firmware/mlipay.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/mlipay.b01 \
+    vendor/xiaomi/jasmine_sprout/proprietary/vendor/firmware/mlipay.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/mlipay.b02 \
+    vendor/xiaomi/jasmine_sprout/proprietary/vendor/firmware/mlipay.b03:$(TARGET_COPY_OUT_VENDOR)/firmware/mlipay.b03 \
+    vendor/xiaomi/jasmine_sprout/proprietary/vendor/firmware/mlipay.b04:$(TARGET_COPY_OUT_VENDOR)/firmware/mlipay.b04 \
+    vendor/xiaomi/jasmine_sprout/proprietary/vendor/firmware/mlipay.b05:$(TARGET_COPY_OUT_VENDOR)/firmware/mlipay.b05 \
+    vendor/xiaomi/jasmine_sprout/proprietary/vendor/firmware/mlipay.b06:$(TARGET_COPY_OUT_VENDOR)/firmware/mlipay.b06 \
+    vendor/xiaomi/jasmine_sprout/proprietary/vendor/firmware/mlipay.b07:$(TARGET_COPY_OUT_VENDOR)/firmware/mlipay.b07 \
+    vendor/xiaomi/jasmine_sprout/proprietary/vendor/firmware/mlipay.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/mlipay.mdt \
     vendor/xiaomi/jasmine_sprout/proprietary/vendor/lib/hw/camera.sdm660.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.sdm660.so \
     vendor/xiaomi/jasmine_sprout/proprietary/vendor/lib/libMiWatermark.so:$(TARGET_COPY_OUT_VENDOR)/lib/libMiWatermark.so \
     vendor/xiaomi/jasmine_sprout/proprietary/vendor/lib/libXMFD_AgeGender.so:$(TARGET_COPY_OUT_VENDOR)/lib/libXMFD_AgeGender.so \
